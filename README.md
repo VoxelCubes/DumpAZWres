@@ -9,3 +9,6 @@ Changes:
   
 Description:
   Simple Python3 script to unpack HD images from Kindle azw.res container file.
+
+## Usage
+`python <compressed_images_path> <optional: output_folder_path>`
